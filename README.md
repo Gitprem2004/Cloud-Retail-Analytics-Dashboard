@@ -1,12 +1,6 @@
 
 ---
 
-# 📄 **README.md — Cloud Retail Analytics Dashboard (Azure + Power BI)**
-
-by **Premkumar**
-
----
-
 # 🛒 **Cloud Retail Analytics Dashboard using Azure & Power BI**
 
 This project demonstrates an **end-to-end cloud analytics workflow** using
